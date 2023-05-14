@@ -16,6 +16,8 @@ public class Test_Git2 {
         System.out.println("sua file");
         
         System.out.println("sua lan nua");
+        
+        System.out.println("Test pass");
     }
     
 }
